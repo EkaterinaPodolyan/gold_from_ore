@@ -10,4 +10,6 @@
 
 ## Библиотеки
 ***pandas, numpy, sklearn, matplotlib, seaborn***
+## Статус
+завершён
 
